@@ -1,1 +1,1 @@
-![alt text](https://github.com/mfaysoares/files/banner.png)
+![alt text](https://github.com/mfaysoares/files/banner.png?raw=true)
