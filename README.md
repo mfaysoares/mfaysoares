@@ -24,7 +24,7 @@
 <img src="https://retifrav.github.io/blog/2019/06/22/qt-yet-another-new-icon/qtcreator.ico" alt="Qt" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" alt="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="Arduino" height="40" style="vertical-align:top; margin:4px">
- 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Keil_logo.svg/1200px-Keil_logo.svg.png" alt="Keil" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
