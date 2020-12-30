@@ -11,7 +11,7 @@
 
 <p align="left">
  <a href="https://github.com/mfaysoares" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/matheusfay" target="_blank" rel="noopener noreferrer"> <img src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/matheusfay" target="_blank" rel="noopener noreferrer"> <img src="https://img1.gratispng.com/20180320/aqe/kisspng-linkedin-logo-computer-icons-business-symbol-linkedin-icon-5ab1765616c913.9690645915215796060933.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:mfaysoares@gmail.com"> <img src="https://i.pinimg.com/originals/d7/4e/60/d74e6036cb5b6e80d87b0a3fc77176c0.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
