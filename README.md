@@ -23,6 +23,7 @@
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://retifrav.github.io/blog/2019/06/22/qt-yet-another-new-icon/qtcreator.ico" alt="Qt" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" alt="Raspberry Pi" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" alt="Arduino" height="40" style="vertical-align:top; margin:4px">
  
 </p>
 
