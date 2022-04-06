@@ -1,11 +1,4 @@
-![alt text](https://github.com/mfaysoares/files/blob/main/banner_mfs.png)
-
-:v: Hi, my name is **Matheus**, an electronic engineer from Brazil. I've been working in the last few years as a embedded software enginner, developing applications and firmwares in the most diverse areas of electronic. Besides, I'm also an student of Data Science. Here in this repository, I leave some projects and codes that I developed for study and learning. Feel free to use it!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaysoares&theme=tokyonight&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfaysoares&show_icons=true&theme=tokyonight)
-
+Hi there :raising_hand_man:, I'm **Matheus Fay Soares**
 ### ✉️ Find me on:
 
 
@@ -14,6 +7,13 @@
  <a href="https://www.linkedin.com/in/matheusfay" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:mfaysoares@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfaysoares&theme=tokyonight&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mfaysoares&show_icons=true&theme=tokyonight)
+
+
 
 <br />
 
