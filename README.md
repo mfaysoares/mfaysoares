@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Matheus</h1>
+h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A passionate python developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mfaysoares&label=Profile%20views&color=0e75b6&style=flat" alt="mfaysoares" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfaysoares" alt="mfaysoares" /></a> </p>
-
-- 🔭 I’m currently working as [Data Analyst](https://www.linkedin.com/company/lojas-quero-quero-s-a/mycompany/)
+- 🔭 I’m currently working as [Data Analyst on Lojas Quero-Quero S.A.](https://www.linkedin.com/company/lojas-quero-quero-s-a/mycompany/)
 
 - 🌱 I’m currently learning **Flask, Python and Machine Learning**
 
@@ -30,9 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mfaysoares&show_icons=true&locale=en&layout=compact" alt="mfaysoares" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mfaysoares&show_icons=true&locale=en" alt="mfaysoares" /></p>
-
-
-
-
-
-
