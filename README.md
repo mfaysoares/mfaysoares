@@ -3,6 +3,7 @@ Olá, muito prazer! Eu me chamo Matheus Fay e bem-vindo ao meu Github!
 Eu sou um Analista de Dados e futuro Cientista de Dados. Nesta página, estão armazenados alguns projetos e estudos desenvolvidos ao longo da minha carreira, fique a vontade para olhar.
 
 Se quiser trocar uma ideia, entre em contato pelo meu e-mail: mfaysoares@gmail.com
+
 Você também pode entrar em contato comigo nos perfis abaixo:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfay/)
