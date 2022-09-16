@@ -4,7 +4,7 @@ Eu sou um Analista de Dados e futuro Cientista de Dados. Nesta página, estão a
 
 Se quiser trocar uma ideia, entre em contato pelo meu e-mail: mfaysoares@gmail.com
 Você também pode entrar em contato comigo nos perfis abaixo:
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />](https://www.linkedin.com/in/matheusfay/)
+
 
 ## Educação
 
