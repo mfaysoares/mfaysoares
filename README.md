@@ -4,7 +4,7 @@ Eu sou um Analista de Dados e futuro Cientista de Dados. Nesta página, estão a
 
 Se quiser trocar uma ideia, entre em contato pelo meu e-mail: mfaysoares@gmail.com
 Você também pode entrar em contato comigo nos perfis abaixo:
-[<img src="https://www.spiner.com.br/wp-content/uploads/2019/02/midias-sociais-linkedin-icon.png" />](https://www.linkedin.com/in/matheusfay/)
+[<img src="https://www.spiner.com.br/wp-content/uploads/2019/02/midias-sociais-linkedin-icon.png" />]
 
 ## Educação
 
