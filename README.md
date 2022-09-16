@@ -1,6 +1,7 @@
 # Hello there! :octopus:
 
-![Brasil](https://img.shields.io/badge/-Portugu%C3%AAs%20BR-green)
+[![Portugues](https://img.shields.io/badge/-Portugu%C3%AAs%20BR-green)](https://github.com/mfaysoares/mfaysoares/blob/main/README.md)
+[![English](https://img.shields.io/badge/-English-blue)]
 
 Olá, muito prazer! Eu me chamo Matheus Fay e bem-vindo ao meu Github!
 Eu sou um Analista de Dados e futuro Cientista de Dados. Nesta página, estão armazenados alguns projetos e estudos desenvolvidos ao longo da minha carreira, fique a vontade para olhar.
