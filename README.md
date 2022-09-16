@@ -1,4 +1,4 @@
-# Hello there! 
+# Hello there! :octopus:
 Olá, muito prazer! Eu me chamo Matheus Fay e bem-vindo ao meu Github!
 Eu sou um Analista de Dados e futuro Cientista de Dados. Nesta página, estão armazenados alguns projetos e estudos desenvolvidos ao longo da minha carreira, fique a vontade para olhar.
 
