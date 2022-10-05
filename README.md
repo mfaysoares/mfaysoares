@@ -22,7 +22,7 @@ Você também pode entrar em contato comigo nos perfis abaixo:
 
 ## Certificações
 - Formação em Estatística com Python pela Alura (2022)
-- Formação em Data Science pela Alura (2022 - Em Andamento)
+- Formação em Data Science pela Alura (2022)
 - Formação em Machine Learning pela Alura (2022 - Em Andamento)
 
 ## Skills de Programação
