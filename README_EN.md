@@ -22,7 +22,7 @@ Also, check my other professional profiles and networks:
 
 ## Extracurricular Activities
 - Statistics with Python at Alura (2022)
-- Data Science at Alura (2022 - Em Andamento)
+- Data Science at Alura (2022)
 - Machine Learning at Alura (2022 - Em Andamento)
 
 ## Main Language Programming Skills
